@@ -22,7 +22,8 @@
 ```
 git clone https://github.com/Joannechiao18/Image-Caption-Generator.git
 ```
-2. Upload the dataset to your Google Drive and run the file `ImageCaptioning.ipynb` in Google Colab.
+2. Upload the `downloaded Flickr 8k Dataset` and `description.txt` to your Google Drive and run the file `ImageCaptioning.ipynb` in Google Colab.
+3. The `.h5` file is my pre-trained model for your inference. 
 
 ## Results
 
