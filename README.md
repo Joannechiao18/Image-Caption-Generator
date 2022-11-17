@@ -3,6 +3,10 @@
 ![](https://img.shields.io/badge/keras-orange)
 ![](https://img.shields.io/badge/tensorflow-blue)
 
+
+## Introduction
+This is an image caption generator implemented by tensorflow.
+
 ## Dependencies
 * tensorflow 
 * os 
